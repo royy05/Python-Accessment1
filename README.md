@@ -1,2 +1,2 @@
 # Python-Accessment1
-Python Class Accessments from Run Free education
+Python Class Accessments, Thammasat u. 2025-2026
